@@ -21,7 +21,7 @@ class Layout extends React.Component {
                 to="/"
                 className="d-flex align-items-center mb-1 text-white text-decoration-none"
               >
-                <span className="fs-4">Currency Converter</span>
+                <span className="fs-4">Exchange Manager</span>
               </Link>
               <ul className="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
                 <li>
