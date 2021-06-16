@@ -1,8 +1,8 @@
 import React from 'react'
-import Home from "./Home"
-import Converter from "./Converter"
-import Exchange from "./Exchange"
-import Settings from "./Settings"
+import Home from "../Home/Home"
+import Converter from "../Converter/Converter"
+import Exchange from "../Exchange/Exchange"
+import Settings from "../Settings/Settings"
 import {
   BrowserRouter as Router,
   Route,
